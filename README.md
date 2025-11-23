@@ -1,4 +1,4 @@
-# 🏥 Randevu Yönetim Sistemi
+# Randevu Yönetim Sistemi
 
 **Furkan YILMAZ** - .NET Programlama Dersi  
 Enver BAĞCI - 23 Kasım 2025
