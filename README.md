@@ -138,8 +138,6 @@ docker-compose up --build
 ## Dokümantasyon
 
 - [Backend Detaylı](AppointmentSystem/README.md)
-- [Kod Açıklamaları](KOD_ACIKLAMASI.md)
-- [Docker Kılavuzu](DOCKER_KULLANIM.md)
 
 ---
 
